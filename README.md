@@ -12,3 +12,4 @@ Disparo de  mensagens em massa para um usuário ou grupo no Whatsapp utilizando 
 
 (https://vimeo.com/489961549 "Preview")
 
+[![Little red ridning hood](https://raw.githubusercontent.com/thelesson/whatsapp-spam-selenium/master/whats.jpg)](https://vimeo.com/489961549 "Little red riding hood - Click to Watch!")
