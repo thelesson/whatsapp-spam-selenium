@@ -10,5 +10,5 @@ Disparo de  mensagens em massa para um usuário ou grupo no Whatsapp utilizando 
 
 ***** Periodicamente o Whatsapp altera o nome de suas classes. Inspecione o elemento e insira as classes correspondente no código, em caso de erro.
 
-[![Preview](https://raw.githubusercontent.com/thelesson/whatsapp-spam-selenium/master/whats.jpg)(https://vimeo.com/489961549 "Preview")
+[![Preview](https://raw.githubusercontent.com/thelesson/whatsapp-spam-selenium/master/whats.jpg)(https://vimeo.com/489961549 "Preview")]
 
