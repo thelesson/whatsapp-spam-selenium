@@ -8,7 +8,7 @@ Disparo de  mensagens em massa para um usuário ou grupo no Whatsapp utilizando 
 **** Utilize a biblioteca sleep para contornar detecções, alguns milissegundos entre uma mensagem e outra é o suficiente para diblar o sistema de detecção de spam.
 ***** Utilize a  biblioteca sleep para aprimorar a cadeia de envios de mensagens para mais de um usuário ou grupo.
 
-***** Periódicamente o Whatsapp altera o nome de suas classes. Inspecione o elemento e insira as classes correspondente no código, em caso de erro.
+***** Periodicamente o Whatsapp altera o nome de suas classes. Inspecione o elemento e insira as classes correspondente no código, em caso de erro.
 
-[![Preview](https://raw.githubusercontent.com/thelesson/whatsapp-spam-selenium/master/whats.jpg)](https://vimeo.com/489961549 "Preview")
+[![Preview](https://raw.githubusercontent.com/thelesson/whatsapp-spam-selenium/master/whats.jpg)(https://vimeo.com/489961549 "Preview")
 
